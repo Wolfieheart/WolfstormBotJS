@@ -3,7 +3,7 @@
 
 
 #### What is WolfstormBotJS?
-A Discord Bot developed and maintained by Wolfstorm. 
+A Discord Bot developed and written with love in JavaScr and maintained by Wolfstorm. 
 
 **NOTE: Currently under development, therefore NOT a finished product. Will be under the dev hammer for quite a while.**
 
