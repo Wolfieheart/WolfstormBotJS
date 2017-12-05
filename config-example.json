@@ -1,5 +1,4 @@
 {
   "token": "your bottoken",
-  "owner": "your ID here",
-  "prefix": "Put Symbol Here (Example: !, +, $, *"
+  "owner": "your ID here"
 }
