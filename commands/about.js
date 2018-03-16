@@ -3,7 +3,7 @@ module.exports = (function() {
 	let run = function(msg) {
 		const embed = {
 		    "title": "**WolfstormBot: DEVELOPER INSTANCE**",
-		    "description": "A Discord.JS Bot written with :heart: and care by: Wolfstorm#0986",
+		    "description": "A Discord.JS Bot written with :heart: and care by: Wolfstorm#0001",
 		    "url": "https://github.com/Wolfst0rm/WolfstormBotJS/tree/develop",
 		    "color": 9352558,
 		    "timestamp": new Date(),

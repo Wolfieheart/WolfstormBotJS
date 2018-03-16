@@ -4,6 +4,6 @@ module.exports = (function() {
 	}
 
 	return {
-		run: run,
+		run: run
 	}
 })();
